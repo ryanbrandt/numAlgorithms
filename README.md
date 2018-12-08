@@ -6,6 +6,7 @@ Implementations of several useful numerical algorithms in MATLAB
 
 1. Cubic Spline Interpolation 
 2. Least Squares with nth-Degree Fitting
+3. Least Squares with Chebyshev Polynomials 
 3. Neville's Method for Evaluating Lagrange Polynomials
 
 ## Numerical Integration ##
